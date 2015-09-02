@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\JATIN\Downloads\Compressed\AndroidGoogleCloudMessaging\AndroidPushNotificationsUsingGCM\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="27c24d26e4c5d57976e6926367985548678e913c">
+        <dex dex="C:\Users\JATIN\Downloads\Compressed\AndroidGoogleCloudMessaging\AndroidPushNotificationsUsingGCM\build\intermediates\pre-dexed\debug\android-support-v4-e4f5ebd0be62d5858a04937116696e6340de4f46.jar" />
+    </item>
+    <item
+        jar="C:\Users\JATIN\Downloads\Compressed\AndroidGoogleCloudMessaging\AndroidPushNotificationsUsingGCM\libs\gcm.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="C:\Users\JATIN\Downloads\Compressed\AndroidGoogleCloudMessaging\AndroidPushNotificationsUsingGCM\build\intermediates\pre-dexed\debug\gcm-019d32313c089c259533621637f00f523cbc483d.jar" />
+    </item>
+
+</items>
